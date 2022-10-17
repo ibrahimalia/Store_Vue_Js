@@ -1,0 +1,63 @@
+{
+  "category":[
+    {
+     "name":"all product",
+     "slug":""
+    },
+    {
+      "name":"labtop",
+      "subCategory":[
+        {
+          "name":"cabels",
+          "slug":"cables"
+        },
+        {
+          "name":"Hards",
+          "slug":"Hards"
+        },
+        {
+          "name":"Battery",
+          "slug":"Battery"
+        }
+      ]
+    },
+    {
+      "name":"Mobile",
+      "subCategory":[
+        {
+          "name":"cabels",
+          "slug":"cabels"
+        },
+        {
+          "name":"usb",
+          "slug":"usb"
+        },
+        {
+          "name":"Battery",
+          "slug":"Battery"
+        },
+        {
+          "name":"usb",
+          "slug":"usb"
+        }
+      ]
+    }
+  ],
+  "topProduct":[
+    {"url":"https://via.placeholder.com/600/92c952"},
+    {"url":"https://via.placeholder.com/600/771796"},
+    {"url":	"https://via.placeholder.com/600/d32776"},
+    {"url":	"https://via.placeholder.com/600/24f355"},
+    {"url":	"https://via.placeholder.com/600/d32776"}
+  ],
+  "topCategory":[
+    {"url":"https://picsum.photos/500/300?image=","name":"labtop"},
+    {"url":"https://picsum.photos/500/300?image=","name":"mobile"},
+    {"url":"https://picsum.photos/500/300?image=","name":"cabel"},
+    {"url":"https://picsum.photos/500/300?image=","name":"hard"},
+    {"url":"https://picsum.photos/500/300?image=","name":"battery"},
+    {"url":"https://picsum.photos/500/300?image=","name":"usb"},
+    {"url":"https://picsum.photos/500/300?image=","name":"mouse"},
+    {"url":"https://picsum.photos/500/300?image=","name":"flash"}
+  ]
+}

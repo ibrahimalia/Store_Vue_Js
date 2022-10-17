@@ -1,2 +1,24 @@
-# Store_Vue_Js
-It is a design for an online store using by vue js and vuetify and multi packages as vuex ,vue-cryptojs,js-image-zoom
+# restaurant
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

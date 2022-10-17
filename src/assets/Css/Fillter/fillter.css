@@ -1,0 +1,27 @@
+.titleFilter:hover{
+    cursor: pointer;
+    color: red;
+}
+.titleFilter{
+    font-weight: bold;
+    font-size: 14px;
+
+}
+.bodyFilter{
+    height: 150px;
+    overflow: auto;
+    scrollbar-width: thin;
+    scrollbar-color:linear-gradient(pink,#30ff00);
+    scroll-behavior: smooth;
+    }
+
+
+   .text{
+       font-size: 30px;
+   }
+
+   .input {
+    width: 70px;
+    border: 1px solid black;
+    font-size: 10px;
+  }
